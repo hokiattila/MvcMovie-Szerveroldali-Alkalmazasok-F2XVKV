@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\hokia\\Desktop\\MvcMovie\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hokia\\Desktop\\MvcMovie\\Migrations\\20241018120305_Rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241018120305_Rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|C:\\Users\\hokia\\Desktop\\MvcMovie\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|c:\\users\\hokia\\desktop\\mvcmovie\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|solutionrelative:views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|c:\\users\\hokia\\desktop\\mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|solutionrelative:views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|c:\\users\\hokia\\desktop\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|c:\\users\\hokia\\desktop\\mvcmovie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|c:\\users\\hokia\\desktop\\mvcmovie\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|solutionrelative:models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|C:\\Users\\hokia\\Desktop\\MvcMovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|C:\\Users\\hokia\\Desktop\\MvcMovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|C:\\Users\\hokia\\Desktop\\MvcMovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|C:\\Users\\hokia\\Desktop\\MvcMovie\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|C:\\Users\\hokia\\Desktop\\MvcMovie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|C:\\Users\\hokia\\Desktop\\MvcMovie\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|solutionrelative:models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|C:\\Users\\hokia\\Desktop\\MvcMovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0E21A87-F567-4770-8B1C-A6D224FF4036}|MvcMovie.csproj|C:\\Users\\hokia\\Desktop\\MvcMovie\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,11 +70,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241018120305_Rating.cs",
+              "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\MvcMovie\\Migrations\\20241018120305_Rating.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241018120305_Rating.cs",
+              "ToolTip": "C:\\Users\\hokia\\Desktop\\MvcMovie\\Migrations\\20241018120305_Rating.cs",
+              "RelativeToolTip": "Migrations\\20241018120305_Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:03:05.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\MvcMovie\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hokia\\Desktop\\MvcMovie\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T12:01:38.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\MvcMovie\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -74,12 +108,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T11:52:01.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T11:52:01.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "MovieGenreViewModel.cs",
               "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\MvcMovie\\Models\\MovieGenreViewModel.cs",
               "RelativeDocumentMoniker": "Models\\MovieGenreViewModel.cs",
@@ -87,37 +120,37 @@
               "RelativeToolTip": "Models\\MovieGenreViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T11:51:46.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T11:51:46.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\MvcMovie\\Views\\Movies\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Movies\\Index.cshtml",
               "ToolTip": "C:\\Users\\hokia\\Desktop\\MvcMovie\\Views\\Movies\\Index.cshtml",
               "RelativeToolTip": "Views\\Movies\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-18T11:49:42.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\MvcMovie\\Models\\SeedData.cs",
               "RelativeDocumentMoniker": "Models\\SeedData.cs",
               "ToolTip": "C:\\Users\\hokia\\Desktop\\MvcMovie\\Models\\SeedData.cs",
               "RelativeToolTip": "Models\\SeedData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAABAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T11:40:09.684Z"
+              "WhenOpened": "2024-10-18T11:40:09.684Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\MvcMovie\\Views\\Movies\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Movies\\Details.cshtml",
@@ -129,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "20241018112647_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\MvcMovie\\Migrations\\20241018112647_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20241018112647_InitialCreate.cs",
@@ -141,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\MvcMovie\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
@@ -149,8 +182,7 @@
               "RelativeToolTip": "Controllers\\MoviesController.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAwwBYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T11:25:43.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T11:25:43.009Z"
             },
             {
               "$type": "Document",
@@ -160,13 +192,14 @@
               "RelativeDocumentMoniker": "Models\\Movie.cs",
               "ToolTip": "C:\\Users\\hokia\\Desktop\\MvcMovie\\Models\\Movie.cs",
               "RelativeToolTip": "Models\\Movie.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T11:23:49.004Z"
+              "WhenOpened": "2024-10-18T11:23:49.004Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Welcome.cshtml",
               "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
               "RelativeDocumentMoniker": "Views\\HelloWorld\\Welcome.cshtml",
@@ -178,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -190,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\HelloWorld\\Index.cshtml",
@@ -202,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "HelloWorldController.cs",
               "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\MvcMovie\\Controllers\\HelloWorldController.cs",
               "RelativeDocumentMoniker": "Controllers\\HelloWorldController.cs",
@@ -214,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hokia\\Desktop\\MvcMovie\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
